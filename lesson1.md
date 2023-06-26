@@ -30,7 +30,7 @@ After setup you need a introduce.
 Open a project folder. Open a Terminal and type `git init`. For add file to repository type `git add filename.xxx`. For create a first save point type `git commit -am "init commit"`. Git is initializated.
 
 ## 5. Write a changes to repository
-After changes in file you need a save it (command+s). For write changes in repository type a command `git commit -am "comment"`. For check a save pont type a `git status`. You can see something that:
+After changes in file, you need a save it (command+s) before create save point. For write changes in repository type a command `git commit -am "comment"`. For check a save pont type a `git status`. You can see something that:
 ```
 On branch draft
 nothing to commit, working tree clean
@@ -40,4 +40,6 @@ nothing to commit, working tree clean
 For look a history type a `git log` or a short type a `git log --oneline`.
 
 ## 7. Move to save point
+For move to save point in branch type `git checkout save_pont_code`. For move to actual version in selected branch `git checkout branchname`. 
+
 
