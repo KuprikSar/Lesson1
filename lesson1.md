@@ -6,7 +6,7 @@ You can see something that:
 ```
 git version 2.15.0
 ```
-If you see that setup is correct
+If you see that - setup is correct
 
 ## 2. Git Settings
 After setup you need a introduce. 
@@ -21,11 +21,23 @@ After setup you need a introduce.
 * `git commit -m "comment"` - create a save point
 * `git log` - show a save points history
 * `git log --oneline` - show a short history save points
-* `git chekout master` - step to actual version
+* `git chekout master` - move to branch master actual version
 * `git checkout xxxxxx` - step to xxxxxxx save point
+* `git branch` - look a branch name
+* `git branch "branchname"` - create a new branch "branchname"
 
 ## 4. Git Initialization
 Open a project folder. Open a Terminal and type `git init`. For add file to repository type `git add filename.xxx`. For create a first save point type `git commit -am "init commit"`. Git is initializated.
 
 ## 5. Write a changes to repository
+After changes in file you need a save it (command+s). For write changes in repository type a command `git commit -am "comment"`. For check a save pont type a `git status`. You can see something that:
+```
+On branch draft
+nothing to commit, working tree clean
+```
+
+## 6. Look a commit history
+For look a history type a `git log` or a short type a `git log --oneline`.
+
+## 7. Move to save point
 
