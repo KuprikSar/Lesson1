@@ -15,3 +15,13 @@ After setup you need a introduce.
 
 `git config --global user.name "your Name"`
 
+## 3. Git commands
+`git --version` - check a version of git
+`git init` - create a local repository
+`git add` - add file/directory to repository
+`git commit -m "comment"` - create a save point
+`git log` - show a save points history
+`git log --oneline` - show a short history save points
+`git chekout master` - step to actual version
+`git checkout xxxxxx` - step to xxxxxxx save pont
+
