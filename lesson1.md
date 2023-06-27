@@ -27,6 +27,7 @@ After setup you need a introduce.
 * `git branch <branchname>` - create a new branch branchname
 * `git merge <branch_name>` - merge branch from branchname
 * `git branch -d <branchname>` - delete branch branchname
+* `git commit --amend -m <comment>` - change a commit, delete old and create new
 
 ## 4. Git Initialization
 Open a project folder. Open a Terminal and type `git init`. For add file to repository type `git add filename.xxx`. For create a first save point type `git commit -am "init commit"`. Git is initializated.
@@ -52,3 +53,4 @@ For move to save point in branch type `git checkout save_pont_code`. For move to
 Dirst of all, you need add a ignore file with name `.gitignore`. Open this file and type name/directory of what do you want to ignore. For ignore a full class jpg file, type a `*.jpg`.
 
 ## 9. Create a branches
+comand for create new branch `git branch <newbranch>`. After look for it in comand `git branch`.
