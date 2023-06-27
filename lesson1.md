@@ -47,3 +47,7 @@ For move to save point in branch type `git checkout save_pont_code`. For move to
 ## 7. Image paste
 
 ![image_paste](baba.jpg)
+
+## 8. Ignore file
+Dirst of all, you need add a ignore file with name `.gitignore`. Open this file and type name/directory of what do you want to ignore. For ignore a full class jpg file, type a `*.jpg`.
+
