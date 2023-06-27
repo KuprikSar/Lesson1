@@ -46,3 +46,4 @@ For move to save point in branch type `git checkout save_pont_code`. For move to
 
 ## 7. Image paste
 
+![image_paste](baba.jpg)
