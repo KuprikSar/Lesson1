@@ -56,13 +56,8 @@ Dirst of all, you need add a ignore file with name `.gitignore`. Open this file 
 comand for create new branch `git branch <newbranch>`. After look for it in comand `git branch`.
 
 ## 9. Merge branches and solve issues
-<<<<<<< HEAD
-for mercge current branch
-```
-```
-=======
 for merge current branch with another type a command 
 ```
 git merge <branchname>
 ```
->>>>>>> draft_10_article
+update a file
