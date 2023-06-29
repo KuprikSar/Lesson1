@@ -66,4 +66,6 @@ update a file
 
 Create conflict in article10 branch. For create a conflict you do a 2 save points in branches. After take a merge.
 
+## 11. Article 11 for create conflict 3
 
+Create conflict in article11 branch. For create a conflict you do a 2 save points in branches. After take a merge.
