@@ -62,5 +62,8 @@ git merge <branchname>
 ```
 update a file
 
-## 10. Article 10. Create conflict
-For create a conflict you need take a 2 save point< in main branch and second branch. After do a command merge.
+## 10. Article 10 for create conflict 2
+
+Create conflict in article10 branch. For create a conflict you do a 2 save points in branches. After take a merge.
+
+
