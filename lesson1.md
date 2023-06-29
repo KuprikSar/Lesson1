@@ -61,3 +61,6 @@ for merge current branch with another type a command
 git merge <branchname>
 ```
 update a file
+
+## 10. Article 10. Create conflict
+For create a conflict you need take a 2 save point< in main branch and second branch. After do a command merge.
