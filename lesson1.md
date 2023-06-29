@@ -70,6 +70,8 @@ Create conflict in article10 branch. For create a conflict you do a 2 save point
 
 Create conflict in article11 branch. For create a conflict you do a 2 save points in branches. After take a merge. After merge save a changes with commit comand.
 
-## 12. Article for create a conflict
+## 12. Article 12 for create conflict 4
 
-Some text for conflict.
+Create conflict in article12 branch. For create a conflict you do a 2 save points in branches. After take a merge. After merge save a changes with commit comand.
+
+Solved!
