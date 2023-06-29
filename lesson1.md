@@ -61,3 +61,7 @@ for merge current branch with another type a command
 git merge <branchname>
 ```
 update a file
+
+## 10. Article 10 for create conflict 2
+
+Create conflict in article10 branch
